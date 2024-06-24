@@ -7,7 +7,7 @@ import {flowerDropPink} from  '@/util/flower.js';
 
 flowerDropPink();
 
-
+// 
 //    使得界面自动以设计的比例自适应
 const bodyScale = () => {
       var devicewidth = document.documentElement.clientWidth;//获取当前分辨率下的可是区域宽度
